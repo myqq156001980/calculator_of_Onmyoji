@@ -163,3 +163,12 @@ python calculator_of_Onmyoji/result_combination.py
 
 ## Related projects
 * web-UI https://github.com/yinxin630/yys-yuhun-calculator-ui
+
+
+
+
+```
+python3 calculator_of_Onmyoji/cal_mitama.py  /Users/fpschina/Downloads/calculator/calculator_of_Onmyoji/_3781803_20190723_1207.json  /Users/fpschina/Downloads/calculator/calculator_of_Onmyoji/3781803_20190723_1207-result.xls -M 狂骨,4#暴击,2 -P 速度16#暴击60 -UP 暴击,80#速度,16.5 -2P 攻击加成,55 
+-4P 攻击加成,55 -6P 暴击伤害,89 -IG 雪幽魂,地藏像,蝠翼,涅槃之火,招财猫,蚌精 -DL 3082,150,20100 -AO True
+
+```
